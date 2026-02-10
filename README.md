@@ -39,7 +39,7 @@ Mis proyectos demuestran la aplicación práctica de mis habilidades para resolv
 ## 🤝 Conectemos
 
 *   **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
-*   **Email:** [guille.ubeda.garay@gmail.com] 
+*   **Email:** guille.ubeda.garay@gmail.com
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Guillermo1987&color=blue" alt="Profile views" />
