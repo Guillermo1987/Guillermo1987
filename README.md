@@ -7,7 +7,7 @@ Profesional con **MBA** y más de **10 años** en **Sales Operations (SalesOps)*
 Busco roles **remotos internacionales** como **Data Analyst**, **Business Intelligence Analyst** y **Cybersecurity Analyst**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Ubeda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Ubeda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-ubeda-garay)
 [![Email](https://img.shields.io/badge/Email-guille.ubeda.garay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guille.ubeda.garay@gmail.com)
 
 ---
@@ -55,7 +55,7 @@ Aplicaciones en producción en **[proyectos-personales.web.app](https://proyecto
 ## Conectemos
 
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
+- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-ubeda-garay)
 - **Email:** guille.ubeda.garay@gmail.com
 
 <p align="center">
