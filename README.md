@@ -1,71 +1,106 @@
-# Guillermo Ubeda Garay — Data & BI Analyst
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guillermo1987/Guillermo1987/main/banner.png" alt="Mindset &amp; Code — Asesoría fiscal y tecnológica en España y Chile" width="100%" />
+</p>
 
-### MBA · ISC2 CC · +10 años en SalesOps / RevOps / Data
+<h1 align="center">Guillermo Ubeda Garay</h1>
+<p align="center"><strong>Asesoría fiscal y tecnológica para autónomos y pymes · España y Chile</strong></p>
 
-Profesional con más de **10 años** en **Sales Operations** y **Revenue Operations**, especializado en análisis de datos, Business Intelligence y automatización con IA. Busco roles **remotos** como **Data Analyst**, **BI Analyst** o **Revenue Operations Manager**.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Ubeda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-ubeda-garay)
-[![Email](https://img.shields.io/badge/Email-guille.ubeda.garay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guille.ubeda.garay@gmail.com)
+<p align="center">
+  <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
+  <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-16-2f6b4f?style=for-the-badge" alt="Encargos" /></a>
+  <a href="https://mindset-code.com/es#contact"><img src="https://img.shields.io/badge/Agendar%20llamada%20de%2060%20min-sin%20coste-a33a34?style=for-the-badge" alt="Agendar llamada" /></a>
+  <a href="https://www.linkedin.com/in/guillermo-ubeda-garay"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## Stack Técnico
+Presento tus impuestos como **colaborador social de la AEAT** (convenio 001 a través de ADECLA)
+y construyo lo que automatiza tu negocio. Montar una empresa tiene dos mitades y casi nadie te
+cubre las dos: aquí no tienes que elegir.
 
-| Categoría | Herramientas |
+- **La habilitación se comprueba, no se promete** → [registro de colaboración social de la AEAT](https://sede.agenciatributaria.gob.es/Sede/colaborar-agencia-tributaria/colaboracion-social.html)
+- **En Chile**, operativa ante el SII con Mandato Digital, que revocas tú cuando quieras
+- **Respuesta en menos de 24 h laborables**, por escrito, y siempre la misma persona
+- **Este perfil es la prueba del trabajo:** 14 repositorios públicos, con su historial y sus fechas
+
+---
+
+## Qué puedes contratar
+
+### MINDSET · lo que no puede fallar
+
+| Área | Qué incluye | Ficha |
+| :--- | :--- | :--- |
+| **Fiscal** | AEAT · IVA · IRPF · Sociedades · requerimientos | [ver](https://mindset-code.com/es/services/tributacion) |
+| **Contable** | PGC · cuentas anuales · libros · Registro Mercantil | [ver](https://mindset-code.com/es/services/contabilidad) |
+| **Laboral** | TGSS · SEPE · Sistema RED · nóminas y finiquitos | [ver](https://mindset-code.com/es/services/laboral) |
+| **Cumplimiento de IA y datos** | RGPD · Reglamento europeo de IA | [ver](https://mindset-code.com/es/services/cumplimiento-ia-datos) |
+
+### CODE · lo que te hace crecer
+
+| Área | Qué incluye | Ficha |
+| :--- | :--- | :--- |
+| **Análisis de datos y BI** | Power BI · Python · cuadros de mando | [ver](https://mindset-code.com/es/services/analisis-datos-bi) |
+| **IA y automatización** | LLMs · n8n · procesos que trabajan solos | [ver](https://mindset-code.com/es/services/ia-automatizacion) |
+| **Desarrollo full-stack** | React · FastAPI · aplicaciones a medida | [ver](https://mindset-code.com/es/services/desarrollo-full-stack) |
+| **Diseño web y e-commerce** | Headless · SEO · tienda online | [ver](https://mindset-code.com/es/services/diseno-web) |
+| **Arquitectura cloud** | GCP · AWS · infraestructura como código | [ver](https://mindset-code.com/es/services/arquitectura-cloud) |
+| **Seguridad** | OWASP · CVSS · auditoría de vulnerabilidades | [ver](https://mindset-code.com/es/services/seguridad) |
+
+---
+
+## Por dónde empezar
+
+Encargos con **alcance, precio y plazo cerrados por escrito**, sin llamada comercial previa.
+
+| Si estás en esta situación | Encargo |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **BI & Data** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge) |
-| **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **IA & Automatización** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white) |
-| **Ciberseguridad** | ![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-00A651?style=for-the-badge&logo=isc2&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge) |
-| **Negocio** | ![RevOps](https://img.shields.io/badge/Revenue%20Operations-FF69B4?style=for-the-badge&logo=salesforce&logoColor=white) ![Revenue Mgmt](https://img.shields.io/badge/Revenue%20Management-003366?style=for-the-badge) |
+| Me ha llegado una carta de Hacienda | [Contestar un requerimiento](https://mindset-code.com/es/encargo/requerimiento) |
+| No sé si estoy declarando bien | [Revisión de la declaración](https://mindset-code.com/es/encargo/revision-declaracion) |
+| Voy a empezar por mi cuenta | [Alta de actividad](https://mindset-code.com/es/encargo/alta-actividad) |
+| No puedo pagar este trimestre | [Aplazamiento](https://mindset-code.com/es/encargo/aplazamiento) |
+| Creo que mi gestoría no lo hace bien | [Segunda opinión](https://mindset-code.com/es/encargo/segunda-opinion) |
+| Se me va la vida tecleando facturas | [Captura automática de facturas](https://mindset-code.com/es/encargo/captura-facturas) |
+
+→ **[Ver los 16 encargos con precio cerrado](https://mindset-code.com/es/express)**
 
 ---
 
-## Portafolio de Proyectos
+## El trabajo, publicado
 
-> Todos los dashboards en producción en **[proyectos-personales.web.app](https://proyectos-personales.web.app)**
+Nadie tiene por qué creerse lo que una web dice de sí misma. Cada proyecto de aquí abajo está
+abierto: se lee el código entero, con su historial y sus fechas, y respalda un servicio del catálogo.
 
-### Data Engineering & BI
+### Datos, BI y modelos predictivos
 
-| Proyecto | Descripción | Stack | Wiki |
+| Proyecto | Qué resuelve | Stack | Respalda |
 | :--- | :--- | :--- | :--- |
-| [Sales & Weather ETL](https://github.com/Guillermo1987/project-sales-weather-etl) | Pipeline ETL que cruza ventas con datos meteorológicos para análisis de correlación clima–rendimiento | Python · Pandas · React · Firebase | [📖](https://github.com/Guillermo1987/project-sales-weather-etl/wiki) |
-| [Executive Dashboard 360°](https://github.com/Guillermo1987/project-executive-dashboard-data) | Dashboard ejecutivo con 24 KPIs de Revenue, Marketing, Pipeline y Churn para equipos RevOps | Python · React · Recharts | [📖](https://github.com/Guillermo1987/project-executive-dashboard-data/wiki) |
-| [Sales Optimization SQL](https://github.com/Guillermo1987/project-sales-optimization-sql) | Análisis de rendimiento y rentabilidad con SQL sobre 10.000 registros, listo para Power BI / Tableau | SQL · Python · Power BI | [📖](https://github.com/Guillermo1987/project-sales-optimization-sql/wiki) |
+| [Executive Dashboard 360°](https://github.com/Guillermo1987/project-executive-dashboard-data) | 24 KPIs de Revenue, Marketing, Pipeline y Churn en un cuadro de mando | Python · React · Recharts | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
+| [Predictive Churn Analysis](https://github.com/Guillermo1987/project-churn-analysis) | Modelo Random Forest que anticipa qué clientes se van | Scikit-learn · Python · React | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
+| [Sales & Weather ETL](https://github.com/Guillermo1987/project-sales-weather-etl) | Pipeline que cruza ventas con meteorología para explicar el rendimiento | Python · Pandas · Firebase | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
+| [Sales Optimization SQL](https://github.com/Guillermo1987/project-sales-optimization-sql) | Rentabilidad sobre 10.000 registros, lista para Power BI | SQL · Python · Power BI | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
+| [Hotel Pricing Engine](https://github.com/Guillermo1987/project-hotel-pricing-engine) | Pricing dinámico con 6 factores y previsión a 60 días | Python · NumPy · React | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
+| [Revenue Management Web](https://github.com/Guillermo1987/project-revenue-management-web) | Simulador de ADR, RevPAR y ocupación para hostelería | HTML · CSS · JavaScript | [Datos y BI](https://mindset-code.com/es/services/analisis-datos-bi) |
 
-### Data Science & Machine Learning
+### IA, automatización y producto
 
-| Proyecto | Descripción | Stack | Wiki |
+| Proyecto | Qué resuelve | Stack | Respalda |
 | :--- | :--- | :--- | :--- |
-| [Predictive Churn Analysis](https://github.com/Guillermo1987/project-churn-analysis) | Modelo Random Forest para predecir cancelaciones de clientes en telecomunicaciones + dashboard interactivo | Scikit-learn · Python · React | [📖](https://github.com/Guillermo1987/project-churn-analysis/wiki) |
+| [AgentForge](https://github.com/Guillermo1987/agentforge) | Plataforma para desplegar agentes de IA a medida | React · Firebase · n8n · Claude | [IA y automatización](https://mindset-code.com/es/services/ia-automatizacion) |
+| [Cinematic Web Service](https://github.com/Guillermo1987/cinematic-web-service) | Convierte webs planas en landings animadas | Vite · React · GSAP · R3F | [Diseño web](https://mindset-code.com/es/services/diseno-web) |
+| [Burger House 3D](https://github.com/Guillermo1987/burger-house-3d) | Sitio 3D interactivo con modelos reales | React · Three.js · GSAP | [Diseño web](https://mindset-code.com/es/services/diseno-web) |
+| [Portafolio profesional](https://github.com/Guillermo1987/project-portfolio) | SPA bilingüe con 10 proyectos integrados | React · Vite · Firebase | [Diseño web](https://mindset-code.com/es/services/diseno-web) |
 
-### Revenue Management
+### Seguridad
 
-| Proyecto | Descripción | Stack | Wiki |
+| Proyecto | Qué resuelve | Stack | Respalda |
 | :--- | :--- | :--- | :--- |
-| [Hotel Pricing Engine](https://github.com/Guillermo1987/project-hotel-pricing-engine) | Motor de pricing dinámico con 6 factores (estacionalidad, eventos, ocupación) y forecast 60 días | Python · NumPy · React | [📖](https://github.com/Guillermo1987/project-hotel-pricing-engine/wiki) |
-| [Revenue Management Web](https://github.com/Guillermo1987/project-revenue-management-web) | Dashboard con simulador interactivo de KPIs de hospitalidad (ADR, RevPAR, Occupancy) | HTML · CSS · JavaScript | [📖](https://github.com/Guillermo1987/project-revenue-management-web/wiki) |
-
-### Ciberseguridad
-
-| Proyecto | Descripción | Stack | Wiki |
-| :--- | :--- | :--- | :--- |
-| [Security Log Analysis](https://github.com/Guillermo1987/project-security-log-analysis) | Simulación SIEM: análisis de 5.000 logs para detección de fuerza bruta y escaneo de puertos | Python · regex · ISC2 CC | [📖](https://github.com/Guillermo1987/project-security-log-analysis/wiki) |
-| [Vulnerability Scanner](https://github.com/Guillermo1987/project-vulnerability-scanner) | Scanner Nmap-style que analiza puertos expuestos y genera reporte de mitigación estructurado | Python · ISC2 CC | [📖](https://github.com/Guillermo1987/project-vulnerability-scanner/wiki) |
-
-### IA & Automatización
-
-| Proyecto | Descripción | Stack | Wiki |
-| :--- | :--- | :--- | :--- |
-| [AgentForge](https://github.com/Guillermo1987/agentforge) | Plataforma SaaS para desplegar agentes IA personalizados en menos de 1 hora | React · Firebase · n8n · Claude | [📖](https://github.com/Guillermo1987/agentforge/wiki) |
-| [Portafolio Profesional](https://github.com/Guillermo1987/project-portfolio) | SPA React desplegada en Firebase con internacionalización ES/EN y 10 proyectos integrados | React · Vite · Firebase | [📖](https://github.com/Guillermo1987/project-portfolio/wiki) |
+| [Security Log Analysis](https://github.com/Guillermo1987/project-security-log-analysis) | SIEM simulado: detecta fuerza bruta y escaneo de puertos sobre 5.000 registros | Python · regex · ISC2 CC | [Seguridad](https://mindset-code.com/es/services/seguridad) |
+| [Vulnerability Scanner](https://github.com/Guillermo1987/project-vulnerability-scanner) | Analiza puertos expuestos y emite un informe de mitigación | Python · ISC2 CC | [Seguridad](https://mindset-code.com/es/services/seguridad) |
 
 ---
 
-## Formación y Certificaciones
+## Formación y certificaciones
 
 | Certificación | Organismo |
 | :--- | :--- |
@@ -76,12 +111,13 @@ Profesional con más de **10 años** en **Sales Operations** y **Revenue Operati
 
 ---
 
-## Contacto
+## Hablamos
 
-- **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-ubeda-garay)
-- **Email:** guille.ubeda.garay@gmail.com
+| | |
+| :--- | :--- |
+| **Web** | [mindset-code.com](https://mindset-code.com/es) |
+| **Correo** | contacto@mindset-code.com |
+| **Dónde** | El Prat de Llobregat, Barcelona · en remoto para España y Chile |
+| **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es#contact) |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guillermo1987&color=60a5fa&style=flat-square" alt="Profile views" />
-</p>
+<sub>¿Buscas un perfil para tu plantilla en lugar de un servicio? Mi trayectoria completa está en [LinkedIn](https://www.linkedin.com/in/guillermo-ubeda-garay).</sub>
