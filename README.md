@@ -102,12 +102,16 @@ abierto: se lee el código entero, con su historial y sus fechas, y respalda un 
 
 ## Formación y certificaciones
 
-| Certificación | Organismo |
-| :--- | :--- |
-| **ISC2 Certified in Cybersecurity (CC)** | ISC2 |
-| **MBA** — Maestría en Administración de Empresas | ESSEC Business School |
-| **IBM Data Science Professional Certificate** | IBM / Coursera |
-| **IBM Full Stack Software Developer** | IBM / Coursera |
+| Titulación | Centro | Año |
+| :--- | :--- | :--- |
+| **MBA** — Master in Business Administration | Indiana Tech | 2022–2023 |
+| **Máster en Big Data & Business Intelligence** | Universidad Isabel I | 2021–2022 |
+| **Diplomado en Gestión y Planificación Tributaria** | Universidad de Las Américas | 2022 |
+| **Ingeniería Comercial** | Universidad de Las Américas | 2017–2019 |
+| **Certified in Cybersecurity (CC)** | ISC2 | 2024 · vigente hasta 2027 |
+| **Generative AI Engineering** | IBM | 2026 |
+| **Full Stack Software Developer** | IBM | 2024 |
+| **Revenue & Demand Management** | ESSEC Business School | 2025 |
 
 ---
 
