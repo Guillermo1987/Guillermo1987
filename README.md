@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
   <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-16-2f6b4f?style=for-the-badge" alt="Encargos" /></a>
-  <a href="https://mindset-code.com/es#contact"><img src="https://img.shields.io/badge/Agendar%20llamada%20de%2060%20min-sin%20coste-a33a34?style=for-the-badge" alt="Agendar llamada" /></a>
+  <a href="https://mindset-code.com/es/cita"><img src="https://img.shields.io/badge/Agendar%20llamada%20de%2060%20min-sin%20coste-a33a34?style=for-the-badge" alt="Agendar llamada" /></a>
   <a href="https://www.linkedin.com/in/guillermo-ubeda-garay"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -122,6 +122,6 @@ abierto: se lee el código entero, con su historial y sus fechas, y respalda un 
 | **Web** | [mindset-code.com](https://mindset-code.com/es) |
 | **Correo** | contacto@mindset-code.com |
 | **Dónde** | El Prat de Llobregat, Barcelona · en remoto para España y Chile |
-| **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es#contact) |
+| **Primera llamada** | 60 minutos, sin coste y sin comercial de por medio — [agendar](https://mindset-code.com/es/cita) |
 
 <sub>¿Buscas un perfil para tu plantilla en lugar de un servicio? Mi trayectoria completa está en [LinkedIn](https://www.linkedin.com/in/guillermo-ubeda-garay).</sub>
