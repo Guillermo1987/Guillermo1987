@@ -29,12 +29,12 @@ cubre las dos: aquí no tienes que elegir.
 
 ### MINDSET · lo que no puede fallar
 
-| Área | Qué incluye | Ficha |
-| :--- | :--- | :--- |
-| **Fiscal** | AEAT · IVA · IRPF · Sociedades · requerimientos | [ver](https://mindset-code.com/es/services/tributacion) |
-| **Contable** | PGC · cuentas anuales · libros · Registro Mercantil | [ver](https://mindset-code.com/es/services/contabilidad) |
-| **Laboral** | TGSS · SEPE · Sistema RED · nóminas y finiquitos | [ver](https://mindset-code.com/es/services/laboral) |
-| **Cumplimiento de IA y datos** | RGPD · Reglamento europeo de IA | [ver](https://mindset-code.com/es/services/cumplimiento-ia-datos) |
+| Área | España | Chile | Fichas |
+| :--- | :--- | :--- | :--- |
+| **Fiscal** | AEAT · IVA · IRPF · Sociedades · requerimientos | SII · LIR · IVA · F29 | [ES](https://mindset-code.com/es/services/tributacion) · [CL](https://mindset-code.com/cl/services/tributacion) |
+| **Contable** | PGC · cuentas anuales · libros · Registro Mercantil | NIIF PyMEs · balances | [ES](https://mindset-code.com/es/services/contabilidad) · [CL](https://mindset-code.com/cl/services/contabilidad) |
+| **Laboral** | TGSS · SEPE · Sistema RED · nóminas y finiquitos | DT · AFP · Previred | [ES](https://mindset-code.com/es/services/laboral) · [CL](https://mindset-code.com/cl/services/laboral) |
+| **Cumplimiento de IA y datos** | RGPD · Reglamento europeo de IA | — | [ES](https://mindset-code.com/es/services/cumplimiento-ia-datos) |
 
 ### CODE · lo que te hace crecer
 
