@@ -106,12 +106,12 @@ abierto: se lee el código entero, con su historial y sus fechas, y respalda un 
 | :--- | :--- | :--- |
 | **MBA** — Master in Business Administration | Indiana Tech | 2022–2023 |
 | **Máster en Big Data & Business Intelligence** | Universidad Isabel I | 2021–2022 |
-| **Diplomado en Gestión y Planificación Tributaria** | Universidad de Las Américas | 2022 |
+| **Diplomado en Gestión y Planificación Tributaria** | Universidad de Las Américas | 2022–2022 |
 | **Ingeniería Comercial** | Universidad de Las Américas | 2017–2019 |
-| **Certified in Cybersecurity (CC)** | ISC2 | 2024 · vigente hasta 2027 |
-| **Generative AI Engineering** | IBM | 2026 |
-| **Full Stack Software Developer** | IBM | 2024 |
-| **Revenue & Demand Management** | ESSEC Business School | 2025 |
+| **Certified in Cybersecurity (CC)** | ISC2 | 2024–2024 · vigente hasta 2027 |
+| **Generative AI Engineering** | IBM | 2026–2026 |
+| **Full Stack Software Developer** | IBM | 2024–2024 |
+| **Revenue & Demand Management** | ESSEC Business School | 2025–2025 |
 
 ---
 
