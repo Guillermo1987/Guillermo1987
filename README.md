@@ -70,6 +70,12 @@ su historial y sus fechas. Los de demostración usan datos sintéticos y así se
 | [Web cinemática](https://github.com/mindset-code/cinematic-web-service) | Convierte una web plana en una landing con movimiento hecho en código, no en vídeo | Vite · React · GSAP · R3F |
 | [Restaurante 3D](https://github.com/mindset-code/burger-house-3d) | Modelos GLB reales e interactivos sin penalizar la carga | React · Three.js (R3F) · GSAP |
 
+### Bibliotecas
+
+| Proyecto | Qué resuelve | Stack |
+| :--- | :--- | :--- |
+| [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | La huella SHA-256 encadenada que la AEAT exige a todo software de facturación antes de 2027 · reproduce el vector de prueba oficial | Python · cero dependencias |
+
 ### Seguridad
 
 | Proyecto | Qué resuelve | Stack |
