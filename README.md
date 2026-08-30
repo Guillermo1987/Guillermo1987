@@ -6,7 +6,7 @@
 <p align="center"><strong>Automatización con IA, datos y desarrollo full-stack · Barcelona</strong></p>
 
 <p align="center">
-  <a href="https://github.com/mindset-code"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-12%20proyectos-2f6b4f?style=for-the-badge" alt="Proyectos" /></a>
+  <a href="https://github.com/mindset-code"><img src="https://img.shields.io/badge/El%20trabajo%20publicado-15%20proyectos-2f6b4f?style=for-the-badge" alt="Proyectos" /></a>
   <a href="https://mindset-code.com/es"><img src="https://img.shields.io/badge/Servicios-mindset--code.com-2c4a6e?style=for-the-badge" alt="Servicios" /></a>
   <a href="https://mindset-code.com/es/express"><img src="https://img.shields.io/badge/Encargos%20con%20precio%20cerrado-6-a33a34?style=for-the-badge" alt="Encargos" /></a>
   <a href="https://www.linkedin.com/in/guillermo-ubeda-garay"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -76,6 +76,7 @@ su historial y sus fechas. Los de demostración usan datos sintéticos y así se
 | :--- | :--- | :--- |
 | [verifactu-huella](https://github.com/mindset-code/verifactu-huella) | La huella SHA-256 encadenada que la AEAT exige a todo software de facturación antes de 2027 · reproduce el vector de prueba oficial | Python · cero dependencias |
 | [calendario-fiscal-es](https://github.com/mindset-code/calendario-fiscal-es) | Cuándo vence cada modelo de la AEAT · traslada a día hábil, distingue la asimetría del 4T y resta los cinco días de la domiciliación | Python · cero dependencias |
+| [facturae-es](https://github.com/mindset-code/facturae-es) | El XML de Facturae 3.2.2 que el RD 238/2026 hace obligatorio · los totales salen de las líneas y el orden se valida contra el esquema del Ministerio | Python · cero dependencias |
 
 ### Seguridad
 
